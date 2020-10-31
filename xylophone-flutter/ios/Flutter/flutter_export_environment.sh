@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=D:\TOOLS\Scoop\apps\flutter\1.17.5"
-export "FLUTTER_APPLICATION_PATH=D:\Documents\Projects\appbrewery-fl\dicee-flutter"
+export "FLUTTER_APPLICATION_PATH=D:\Documents\Projects\appbrewery-fl\xylophone-flutter"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"
